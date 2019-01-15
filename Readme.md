@@ -1,10 +1,10 @@
 # Imagen para SharePoint Framework 1.7.1
 
 ## Detalles de la imagen
-- Node: 8.12.0
-- Yeoman: 2.0.5
-- SharePoint Framework: 1.7.1
-- Nano
+* Node: 8.12.0
+* Yeoman: 2.0.5
+* SharePoint Framework: 1.7.1
+* Nano
 
 ## Como ejecutar
 ```
