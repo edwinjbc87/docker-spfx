@@ -1,10 +1,12 @@
-# Imagen para SharePoint Framework 1.7.1
+# Imagen Docker para SharePoint Framework 1.7.1
 
 ## Detalles de la imagen
 * Node: 8.12.0
 * Yeoman: 2.0.5
 * SharePoint Framework: 1.7.1
-* Nano
+* Nano: 2.2.6
+* NPM: 6.4.1
+* Yarn: 1.9.4
 
 ## Como ejecutar
 ```
@@ -12,7 +14,7 @@ docker run -it --rm --name spfx-helloworld -v ${PWD}:/usr/app/spfx -p 5432:5432 
 ```
 
 ## Errores conocidos
-En caso de obtener un error al obtener las dependencias con npm, utilizar Yarn en vez de NPM: 
+En caso de obtener un error al obtener las dependencias con NPM, utilizar en reemplazo Yarn: 
 ```
 yo @microsoft/sharepoint --package-manager yarn
 ```
