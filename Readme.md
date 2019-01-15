@@ -21,4 +21,4 @@ yo @microsoft/sharepoint --package-manager yarn
 
 ## Autores
 * **Edwin Bonifacio** - *Trabajo inicial* - [edwinjbc87](https://github.com/edwinjbc87)
-* Imagen basa en waldekm/spfx - [waldekmastykarz](https://github.com/waldekmastykarz)
+* Imagen basada en waldekm/spfx - [waldekmastykarz](https://github.com/waldekmastykarz)
