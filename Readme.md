@@ -1,12 +1,11 @@
 # Imagen Docker para SharePoint Framework 1.7.1
 
 ## Detalles de la imagen
-* Node: 8.12.0
-* Yeoman: 2.0.5
-* SharePoint Framework: 1.7.1
-* Nano: 2.2.6
-* NPM: 6.4.1
-* Yarn: 1.9.4
+* Node: 16.20.0
+* Yeoman: 4.3.1
+* SharePoint Framework: 1.17.2
+* Gulp-cli: 2.3.0
+* Gulp: 4.0.2
 
 ## Como ejecutar
 ```
