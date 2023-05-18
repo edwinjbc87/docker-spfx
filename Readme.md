@@ -1,4 +1,4 @@
-# Imagen Docker para SharePoint Framework 1.7.1
+# Imagen Docker para SharePoint Framework 1.17.2
 
 ## Detalles de la imagen
 * Node: 16.20.0
